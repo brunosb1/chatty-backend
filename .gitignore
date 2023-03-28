@@ -1,1 +1,11 @@
+# Node_modules
 node_modules/
+
+# Settings
+settings.json
+
+# yarn error log
+yarn-error.log
+
+# environment
+.env
